@@ -6,5 +6,6 @@
     <string name="title_permition_dialog">\"Permissão Negada\"</string>
     <string name="bluetooth_message_permission_dialog">\"Você precisa ativar o Bluetooth para usar essa funcionalidade.\"</string>
     <string name="camera_message_permission_dialog">\"Você precisa ativar a câmera para usar essa funcionalidade.\"</string>
+    <string name="msg_bluetooth_error">erro ao habilitar Bluetooth</string>
 
 </resources>
