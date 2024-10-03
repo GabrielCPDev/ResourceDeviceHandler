@@ -7,6 +7,10 @@ android {
     namespace = "com.gabriel.resourcedevicehandler"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.gabriel.resourcedevicehandler"
         minSdk = 24
