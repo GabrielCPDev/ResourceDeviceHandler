@@ -2,5 +2,9 @@
     <string name="app_name">ResourceDeviceHandler</string>
     <string name="btn_enable_bluetooth">Ligar Bluetooth</string>">
     <string name="btn_access_camera">Acessar Câmera</string>
+    <string name="btn_dialog_agree">concordo</string>
+    <string name="title_permition_dialog">\"Permissão Negada\"</string>
+    <string name="bluetooth_message_permission_dialog">\"Você precisa ativar o Bluetooth para usar essa funcionalidade.\"</string>
+    <string name="camera_message_permission_dialog">\"Você precisa ativar a câmera para usar essa funcionalidade.\"</string>
 
 </resources>
